@@ -33,8 +33,14 @@ Alle auf einmal global: `cp -r skills/* ~/.claude/skills/`
 
 **mods/**: 5 eigene Claude-Erweiterungen (Plugins mit Hooks, keine Skills): `cache-anzeige`, `chat-anzeige`, `chat-team`, `dashboard`, `modell-sparen`.
 
+## Quellen und Aktualisieren
+
+Herkunft, GitHub-Links und 
+px-Befehle je Skill: siehe [SOURCES.md](SOURCES.md).
+
 ## Hinweise
 
 - `impeccable` bringt seine Programmdatei (`scripts/bin/windows-x64/impeccable.exe`, 20 MB) selbst mit. Sie ist hier bewusst nicht enthalten. Beim Installieren über das Plugin wird sie mitgeliefert.
 - Einige Skills stammen von anderen Autoren und stehen unter deren Lizenz (siehe Ordner), zum Beispiel `apple-liquid-glass` (naplesblue/apple-design-skill), `liquid-glass-web` (gentpan/liquidglass) und `hallmark` (nutlope/hallmark). Das Repo ist deshalb privat.
 - Skills können Skripte enthalten. Vor dem Einsatz in einem fremden Projekt die `SKILL.md` lesen.
+
