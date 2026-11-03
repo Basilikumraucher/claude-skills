@@ -1,0 +1,7 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "Eigenes Dashboard neben dem Chat: deine To-dos und die Nachrichten, die du noch beantworten musst. Abhaken per Klick, eintragen per /todo, /antworten oder einfach Claude sagen.",
+  "author": { "name": "Titus Harmann" },
+  "types": "./types/index.d.ts"
+}

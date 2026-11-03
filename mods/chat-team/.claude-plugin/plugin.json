@@ -1,0 +1,7 @@
+{
+  "name": "chat-team",
+  "version": "1.0.0",
+  "description": "Macht aus mehreren Claude-Code-Chats ein Team: jeder Chat bekommt mit /rolle eine Rolle (Recherche, Entwurf, Chef), und die Chats schicken sich ihre Ergebnisse gegenseitig zu.",
+  "author": { "name": "Titus Harmann" },
+  "types": "./types/index.d.ts"
+}

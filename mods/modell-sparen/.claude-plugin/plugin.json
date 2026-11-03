@@ -1,0 +1,7 @@
+{
+  "name": "modell-sparen",
+  "version": "1.0.0",
+  "description": "Nimmt für einfache Aufgaben (übersetzen, zusammenfassen, umformulieren) automatisch das günstige Modell, wenn sich das laut Preisrechnung lohnt. /sparen zeigt, was gespart wurde.",
+  "author": { "name": "Titus Harmann" },
+  "types": "./types/index.d.ts"
+}
